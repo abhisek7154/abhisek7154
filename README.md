@@ -1,6 +1,6 @@
 - 👋 Hi, I’m abhisek
 
-- ![Lain Crying](https://media.tenor.com/oa-uWuwCjrgAAAAm/lain-serial-experiments-lain.webp)
+![Lain Crying](https://media.tenor.com/oa-uWuwCjrgAAAAm/lain-serial-experiments-lain.webp)
   
 <div align="center">
  <img src="https://github.com/abhisek7154/abhisek7154/raw/master/under-construction.gif" />
