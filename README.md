@@ -18,7 +18,3 @@ Thanks for checking my profile!
 
 <p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisek7154&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-
